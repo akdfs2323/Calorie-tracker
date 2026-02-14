@@ -111,7 +111,7 @@ calorie-tracker/
 └── supabase-schema.sql      # Database schema
 ```
 
-Created with ❤️ and AI
+
 
 ---
 
