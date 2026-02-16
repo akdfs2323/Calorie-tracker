@@ -4,11 +4,11 @@ Track your daily calories, understand your eating habits, and reach your health 
 
 ## Features
 
-- 💬 **AI Chatbot** - Chat and consult with AI about nutrition and exercise.
-- 🎯 **Golas** - Set your target weight and track your progress.
-- 📊 **Daily statistics** - View a summary of your daily calorie and nutrition intake.
-- 👤 **Profile** - Manage your personal information and goals.
-- 🔐 **Authentication** - Login/Signup/Logout system using Supabase Auth.
+- **AI Chatbot** - Chat and consult with AI about nutrition and exercise.
+- **Golas** - Set your target weight and track your progress.
+- **Daily statistics** - View a summary of your daily calorie and nutrition intake.
+- **Profile** - Manage your personal information and goals.
+- **Authentication** - Login/Signup/Logout system using Supabase Auth.
 
 ## Tech Stack
 
