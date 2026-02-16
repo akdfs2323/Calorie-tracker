@@ -73,14 +73,14 @@ npm run dev
 
 เปิดเบราว์เซอร์ไปที่ [http://localhost:3000](http://localhost:3000)
 
-## 🚀 Build for Production
+## Build for Production
 
 ```bash
 npm run build
 npm start
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 calorie-tracker/
